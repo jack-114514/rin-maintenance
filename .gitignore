@@ -1,0 +1,14 @@
+dist/
+data/
+logs/
+__pycache__/
+*.pyc
+*.exe
+*.zip
+.env
+.env.*
+*credentials*
+*secret*
+
+dist-*/
+/src/manager.ico
